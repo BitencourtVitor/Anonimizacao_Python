@@ -16,9 +16,9 @@ Observando as vendas por Rota, foi possível constatar uma disparidade: a maior 
 Houve uma queda na média do valor vendido pela empresa no mês de dezembro, o que pode ser justificado pela chegada do período do fim de ano, onde o mercado se posiciona menos no atacado (ou indústria) e mais no varejo.
 
 ## Pontos a melhorar 
-A análise possui diversos limitadores, sabe-se quanto vendeu mas não se sabe nenhuma informação sobre a saúde financeira dos clientes enquanto ativos.
+A análise possui limitadores, sabe-se quanto vendeu mas não se sabe nenhuma informação sobre a saúde financeira dos clientes enquanto ativos, por exemplo.
 
-Usar inúmeras ferramentas diferentes para coleta e tratamento seria algo obsoleto caso houvesse proficiência em uma única ferramenta.
+Usar ferramentas diferentes para coleta e tratamento seria algo dispensável caso houvesse proficiência em uma única ferramenta.
 
 A utilização de cidades fictícias na anonimização impossibilitou a realização de uma observação geográfica, um dos principais fatores a serem observados caso pense-se em expansão das vendas em determinada região.
 
