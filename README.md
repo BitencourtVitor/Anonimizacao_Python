@@ -30,5 +30,3 @@ A partir disso, foram feitas consultas (queries) com o nome do cliente, metragem
 - TRANSFORMAÇÃO: O arquivo .csv foi manuseado no Power Query para fazer as devidas correções, desde correção de ortografia até formatação dos valores para evitar discrepância.
 - ANONIMIZAÇÃO: Após instalar a biblioteca Faker dentro do Anaconda Prompt, foi desenvolvido o [código para anonimização dos dados](https://github.com/BitencourtVitor/Anonimizacao_Python/blob/main/C%C3%B3digo%20para%20Anonimizar.ipynb).
 - LOAD: O dashboard foi criado no Figma tomando cuidado com paleta de cores, distribuição dos elementos visuais, etc.
-
-![Aqui um print do dashboard](https://github.com/BitencourtVitor/Anonimizacao_Python/blob/main/print%20dashboard%20L%26A.png)
